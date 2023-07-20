@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    font-family: 'Lexend', sans-serif;
+    background-color: #f1ccc5;
+}
+
+nav {
+    height: 100px;
+}
+
+.navbar{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navlink ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.navlink a{
+    margin: 0 10px;
+    text-decoration: none;
+}
+.navlink a:hover {
+    font-weight: bold;
+    transition: font-weight 0.3s;
+}
+
+.LogoBody{
+    padding-left: 145mm;
+}
+
+h4{
+    text-align: center;
+}
+
+.CumpleGiuli{
+    text-align: center;
+    background-color:#EB9E94;    
+}
+
+.CumpleAmbar{
+    text-align: center;
+}
+
+.CumpleAbi{
+    text-align: center;
+    background-color:#EB9E94; 
+}
+
+.CumpleVivi{
+    text-align: center;
+}
+
+.CumpleEuge{
+    text-align: center;
+    background-color:#EB9E94; 
+}
